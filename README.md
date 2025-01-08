@@ -1,0 +1,3 @@
+This repository demonstrates a common JavaScript bug related to type coercion. The function `myFunction` attempts to add two numbers, but due to type coercion, it performs string concatenation instead of numerical addition when one of the inputs is a string.
+
+The `bug.js` file contains the buggy code. The `bugSolution.js` file provides the solution to address this issue, demonstrating how to handle type checking and ensure numerical addition occurs.
